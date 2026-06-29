@@ -1,0 +1,21 @@
+[project]
+name = "lab4-mcp"
+version = "0.1.0"
+description = "LAB: Le Model Context Protocol (MCP)"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-ollama",
+    "langchain-openai",
+    "langchain-mcp-adapters",
+    "langgraph",
+    "langgraph-cli[inmem]",
+    "python-dotenv",
+    "tavily-python",
+    "mcp[cli]",
+    "fastmcp",
+    "requests",
+]
+
+[tool.uv]
+package = false

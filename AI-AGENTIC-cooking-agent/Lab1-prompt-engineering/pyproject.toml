@@ -1,0 +1,16 @@
+[project]
+name = "tp-langchain-prompt"
+version = "0.1.0"
+description = "TP Ingenierie des prompts"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel",
+    "langchain-groq",
+    "langchain-ollama",
+    "langchain-openai",
+    "python-dotenv",
+    "tiktoken",
+]
+
+[tool.uv]
+package = false
