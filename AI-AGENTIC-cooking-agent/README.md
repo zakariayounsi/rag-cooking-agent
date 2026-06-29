@@ -1,4 +1,4 @@
-# AI Agentic — Master BDCC
+# AI Agentic — Master BDCC - AI Cooking Assistant
 
 Depot unique regroupant tous les Labs et TPs du module **SMA et IAD — Master BDCC | Prof. RETAL SARA**.
 
