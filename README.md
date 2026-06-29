@@ -1,1 +1,1 @@
-# rag-cooking-agent
+# AI Agentic — Master BDCC AI Cooking Assistant
