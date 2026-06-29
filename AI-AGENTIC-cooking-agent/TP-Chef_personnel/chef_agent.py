@@ -151,7 +151,7 @@ if __name__ == "__main__":
     print("=" * 60)
 
     # Enregistrer les preferences
-    chat("Je suis vegetarien et j'adore la cuisine italienne.")
+    chat("Je suis vegetarien et j'adore la cuisine Marocaine.")
     chat("Je suis allergique aux arachides.")
 
     # Suggestions avec les ingredients disponibles
